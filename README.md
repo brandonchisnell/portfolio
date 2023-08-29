@@ -16,7 +16,7 @@ Associate of Applied Science in Criminal Justice
 
 Description
 
-![Mountains](/pictures/picture1.jpg)
+![Mountains](/pictures/Picture1.jpg)
 
 #### Project Capstone #2 Southern Water
 [Publication](https://)
