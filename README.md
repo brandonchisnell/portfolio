@@ -12,11 +12,11 @@ Associate of Applied Science in Criminal Justice
 
 ## Projects
 #### Project Capstone #1 Universal Studios
-[Publication](https://)
+[Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/CapstonePresentationMovies-BrandonChisnell/Story1)
 
 Description
 
-![Image_Name](image_path.jpeg)
+![Mountains](/pictures/picture1.jpg)
 
 #### Project Capstone #2 Southern Water
 [Publication](https://)
