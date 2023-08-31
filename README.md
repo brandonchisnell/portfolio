@@ -18,14 +18,14 @@ Description
 
 ![Mountains](/pictures/Picture1.jpg)
 
-#### Project Capstone #2 Southern Water
+#### Project Capstone #2 ChemCorp
 [Publication](https://)
 
 Description
 
 ![Image_Name](image_path.jpeg)
 
-#### Project ChemCorp
+#### Project Southern Water
 [Publication](https://)
 
 Description
