@@ -11,35 +11,35 @@ General Banking, Banking Operations and Banking Supervisor Certifications
 Associate of Applied Science in Criminal Justice
 
 ## Projects
-#### Project Capstone #1 Universal Studios
-[Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/CapstonePresentationMovies-BrandonChisnell/Story1)
+#### Capstone: Universal Studios
+[Universal Studios Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/CapstonePresentationMovies-BrandonChisnell/Story1)
 
 Description
 
 ![Mountains](/pictures/Picture1.jpg)
 
-#### Project Capstone #2 ChemCorp
+#### Capstone: ChemCorp
+[ChemCorp Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/ChemCorpAnalysisExecutivePresentationBrandonChisnellV2_0/ExecutivePresentation)
+
+Description
+
+![Image_Name](image_path.jpeg)
+
+#### Project: Southern Water
 [Publication](https://)
 
 Description
 
 ![Image_Name](image_path.jpeg)
 
-#### Project Southern Water
-[Publication](https://)
+#### Project: AEMR
+[AEMR Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/AEMRCaseStudyPresentationBrandonChisnell/AEMRExecutivePresentation)
 
 Description
 
 ![Image_Name](image_path.jpeg)
 
-#### Project AEMR
-[Publication](https://)
-
-Description
-
-![Image_Name](image_path.jpeg)
-
-#### Project AirBnB
+#### Project: AirBnB
 [Publication](https://)
 
 Description
