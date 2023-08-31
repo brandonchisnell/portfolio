@@ -1,7 +1,7 @@
 # Data Analyst
 
 ## Education
-#### Data Analytics Bootcamp at University of South Florida CTPE, Certification – August 2023
+#### Data Analytics Bootcamp at University of South Florida CTPE, Certification – 2023
 Six-month intensive course in data analytics technologies and methods, including two capstone projects
 
 #### American Institute of Banking – 2008 to 2009
