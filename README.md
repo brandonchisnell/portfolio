@@ -45,7 +45,7 @@ Description
 #### Project: AirBnB
 [Publication](https://)
 
-Description
+A case study of AirBnB prices in New York                   Python was used for analysis and visualizations
 
 ![Image_Name](image_path.jpeg)
 
