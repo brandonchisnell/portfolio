@@ -2,7 +2,7 @@
 ## LinkedIn
 [Brandon's LinkedIn Page](https://www.linkedin.com/in/brandon-chisnell-9890a79b/)
 
-## Resume
+### Resume
 Link
 
 ## Education
