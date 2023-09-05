@@ -1,9 +1,4 @@
 # Data Analyst
-## LinkedIn
-[Brandon's LinkedIn Page](https://www.linkedin.com/in/brandon-chisnell-9890a79b/)
-
-## Resume
-Link
 
 ## Education
 #### Data Analytics Bootcamp at University of South Florida CTPE, Certification – 2023
@@ -51,6 +46,10 @@ A case study of AirBnB prices in New York using Python for both the analysis and
 
 ![AirBnB](/assets/images/airbnb1.jpeg)
 
+## LinkedIn
+[Brandon's LinkedIn Page](https://www.linkedin.com/in/brandon-chisnell-9890a79b/)
 
+## Resume
+Link
 
 
