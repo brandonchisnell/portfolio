@@ -4,6 +4,7 @@
 
 ## Resume
 Link
+
 ## Education
 #### Data Analytics Bootcamp at University of South Florida CTPE, Certification – 2023
 Six-month intensive course in data analytics technologies and methods, including two capstone projects
@@ -20,35 +21,35 @@ Associate of Applied Science in Criminal Justice
 
 Analysis of which type of movies are the best for the studio to make. Analysis was completed in Python and the visualizations were completed using Tableau. 
 
-![Mountains](/pictures/Picture1.jpg)
+![Movies](/assets/movies1.png)
 
 #### Capstone: American Energy Market Regulator (AEMR)
 [American Energy Market Regulator Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/AEMRCaseStudyPresentationBrandonChisnell/AEMRExecutivePresentation)
 
 A case study of energy stability. Analysis was completed using SQL, and Tableau was used for the visualizations.
 
-![Image_Name](image_path.jpeg)
+![Energy Plant](/assets/energy2.png)
 
 #### Project: Southern Water Corp
 [Publication](https://)
 
 A financial, statistical and equipment efficiency study for a water desalination company. Excel and Python were both used for the analysis and visuals.
 
-![Image_Name](image_path.jpeg)
+![Water Pumping Station](/assets/water1.png)
 
 #### Project: ChemCorp
 [ChemCorp Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/ChemCorpAnalysisExecutivePresentationBrandonChisnellV2_0/ExecutivePresentation)
 
-Analysis for a chemical manufacturer on preventing loss of future market share and growing profits.
+Analysis for a chemical manufacturer on preventing loss of future market share and growing profits. Tableau was used for the analysis and the visuals.
 
-![Image_Name](image_path.jpeg)
+![Chemicals](/assets/chem1.png)
 
 #### Project: AirBnB
 [Publication](https://)
 
-A case study of AirBnB prices in New York using Python for the analysis and visualizations.
+A case study of AirBnB prices in New York using Python for both the analysis and visualizations.
 
-![Image_Name](image_path.jpeg)
+![AirBnB](/assets/airbnb1.jpeg)
 
 
 
