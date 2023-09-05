@@ -18,8 +18,8 @@ Description
 
 ![Mountains](/pictures/Picture1.jpg)
 
-#### Capstone: ChemCorp
-[ChemCorp Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/ChemCorpAnalysisExecutivePresentationBrandonChisnellV2_0/ExecutivePresentation)
+#### Capstone: AEMR
+[American Energy Market Regulators Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/AEMRCaseStudyPresentationBrandonChisnell/AEMRExecutivePresentation)
 
 Description
 
@@ -32,7 +32,7 @@ Description
 
 ![Image_Name](image_path.jpeg)
 
-#### Project: AEMR
+#### Project: ChemCorp
 [AEMR Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/AEMRCaseStudyPresentationBrandonChisnell/AEMRExecutivePresentation)
 
 Description
