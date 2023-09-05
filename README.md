@@ -1,5 +1,8 @@
 # Data Analyst
-
+## LinkedIn
+Link
+## Resume
+Link
 ## Education
 #### Data Analytics Bootcamp at University of South Florida CTPE, Certification – 2023
 Six-month intensive course in data analytics technologies and methods, including two capstone projects
@@ -33,7 +36,7 @@ Description
 ![Image_Name](image_path.jpeg)
 
 #### Project: ChemCorp
-[AEMR Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/AEMRCaseStudyPresentationBrandonChisnell/AEMRExecutivePresentation)
+[ChemCorp Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/ChemCorpAnalysisExecutivePresentationBrandonChisnellV2_0/ExecutivePresentation)
 
 Description
 
@@ -46,5 +49,6 @@ Description
 
 ![Image_Name](image_path.jpeg)
 
-## Resume
-Link to resume
+
+
+
