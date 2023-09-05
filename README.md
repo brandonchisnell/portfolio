@@ -21,28 +21,28 @@ Associate of Applied Science in Criminal Justice
 
 Analysis of which type of movies are the best for the studio to make. Analysis was completed in Python and the visualizations were completed using Tableau. 
 
-![Movies](/assets/movies1.png)
+![Movies](/assets/movies1.jpeg)
 
 #### Capstone: American Energy Market Regulator (AEMR)
 [American Energy Market Regulator Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/AEMRCaseStudyPresentationBrandonChisnell/AEMRExecutivePresentation)
 
 A case study of energy stability. Analysis was completed using SQL, and Tableau was used for the visualizations.
 
-![Energy Plant](/assets/energy2.png)
+![Energy Plant](/assets/energy2.jpeg)
 
 #### Project: Southern Water Corp
 [Publication](https://)
 
 A financial, statistical and equipment efficiency study for a water desalination company. Excel and Python were both used for the analysis and visuals.
 
-![Water Pumping Station](/assets/water1.png)
+![Water Pumping Station](/assets/water1.jpeg)
 
 #### Project: ChemCorp
 [ChemCorp Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/ChemCorpAnalysisExecutivePresentationBrandonChisnellV2_0/ExecutivePresentation)
 
 Analysis for a chemical manufacturer on preventing loss of future market share and growing profits. Tableau was used for the analysis and the visuals.
 
-![Chemicals](/assets/chem1.png)
+![Chemicals](/assets/chem1.jpeg)
 
 #### Project: AirBnB
 [Publication](https://)
