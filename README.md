@@ -1,6 +1,7 @@
 # Data Analyst
-[LinkedIn|](https://www.linkedin.com/in/brandon-chisnell-9890a79b/)
-[|Resume](/assets/resume/resume_brandon_chisnell.pdf)
+[LinkedIn](https://www.linkedin.com/in/brandon-chisnell-9890a79b/)
+[||]
+[Resume](/assets/resume/resume_brandon_chisnell.pdf)
 
 ## Education
 #### Data Analytics Bootcamp at University of South Florida CTPE, Certification – 2023
