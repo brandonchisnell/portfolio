@@ -6,10 +6,10 @@
 #### Data Analytics Bootcamp at University of South Florida CTPE, Certification – 2023
 Six-month intensive course in data analytics technologies and methods, including two capstone projects
 
-#### American Institute of Banking – 2008 to 2009
+#### American Institute of Banking – 2009
 General Banking, Banking Operations and Banking Supervisor Certifications
 
-#### Community College of Baltimore County – 2004 to 2007
+#### Community College of Baltimore County – 2007
 Associate of Applied Science in Criminal Justice
 
 ## Projects
