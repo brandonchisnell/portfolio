@@ -1,6 +1,6 @@
 # Data Analyst
 [LinkedIn](https://www.linkedin.com/in/brandon-chisnell-9890a79b/)
-[||]
+||
 [Resume](/assets/resume/resume_brandon_chisnell.pdf)
 
 ## Education
