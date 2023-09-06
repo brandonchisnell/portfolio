@@ -22,9 +22,6 @@ Analysis of which type of movies are the best for the studio to make.
 
 ![Movies](/assets/images/movies1.jpeg)
 
-
-
-
 #### Capstone: American Energy Market Regulator (AEMR)
 [American Energy Market Regulator Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/AEMRCaseStudyPresentationBrandonChisnell/AEMRExecutivePresentation)
 
