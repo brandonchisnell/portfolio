@@ -17,8 +17,13 @@ Associate of Applied Science in Criminal Justice
 #### Capstone: Universal Studios
 Analysis of which type of movies are the best for the studio to make.
 - Python
+  - Data exploration, cleaning, and value distribution analysis
+  - Analysis based on 5-year and 10-year models
+  - Heatmaps, Line plots, Histograms, Scatter plots
+  - Checking correlations between variables
   - [DOWNLOAD THE JUPYTER FILE TO VIEW MY CODE](/assets/files/capstone_universal_studios_portfolio.ipynb)
 - Tableau
+  -Visuals, Modeling, Presentation
   - [VISIT MY TABLEAU PAGE TO VIEW THE PRESENTATION](https://public.tableau.com/app/profile/brandon.chisnell)
   - [TABLEAU PRESENTATION](https://public.tableau.com/app/profile/brandon.chisnell/viz/Capstone-UniversalStudios/ExecutivePresentation)
 
