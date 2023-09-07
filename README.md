@@ -30,11 +30,12 @@ Analysis of which movie genres are the best for the studio to make, along with w
 ![Movies](/assets/images/movies1.jpeg)
 
 #### American Energy Market Regulator (AEMR)
-[American Energy Market Regulator Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/AEMRCaseStudyPresentationBrandonChisnell/AEMRExecutivePresentation)
 
 A case study of energy stability.
-- SQL
-- Tableau
+- **SQL**
+  - [**DOWNLOAD** THE JUPYTER FILE TO VIEW MY SQL CODE](assets/files/)
+- **Tableau**
+  - [American Energy Market Regulator Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/AmericanEnergyMarketRegulator_16941167662490/Presentation)
 
 ![Energy Plant](/assets/images/energy2.jpeg)
 
