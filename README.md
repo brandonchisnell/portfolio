@@ -33,33 +33,28 @@ Analysis of which movie genres are the best for the studio to make, along with w
 
 A case study of energy stability.
 - **SQL**
-  - [**DOWNLOAD** THE JUPYTER FILE TO VIEW MY SQL CODE](assets/files/)
+  - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY SQL CODE](assets/files/)
 - **Tableau**
   - [American Energy Market Regulator Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/AmericanEnergyMarketRegulator_16941167662490/Presentation)
 
 ![Energy Plant](/assets/images/energy2.jpeg)
 
 #### Southern Water Corp
-[Publication](https://)
-
 A financial, statistical and equipment efficiency study for a water desalination company. 
-- Excel
-- Python
+- **Excel**
+- **Python**
 
 ![Water Pumping Station](/assets/images/water1.jpeg)
 
 #### ChemCorp
-[ChemCorp Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/ChemCorpAnalysisExecutivePresentationBrandonChisnellV2_0/ExecutivePresentation)
-
 Analysis for a chemical manufacturer on preventing loss of future market share and growing profits. 
-- Tableau
+- **Tableau**
+  - [TABLEAU PRESENTATION](https://public.tableau.com/app/profile/brandon.chisnell/viz/ChemCorpAnalysisExecutivePresentationBrandonChisnellV2_0/ExecutivePresentation)
 
 ![Chemicals](/assets/images/chem1.jpeg)
 
 #### AirBnB
-[Publication](https://)
-
 A case study of AirBnB prices in New York.
-- Python
+- **Python**
 
 ![AirBnB](/assets/images/airbnb1.jpeg)
