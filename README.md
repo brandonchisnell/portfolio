@@ -16,6 +16,7 @@ Associate of Applied Science in Criminal Justice
 ## Projects
 #### Capstone: Universal Studios
 [Universal Studios Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/CapstonePresentationMovies-BrandonChisnell/Story1)
+[Python In Jupyter](/assets/files/capstone_universal_studios_portfolio.ipynb)
 
 Analysis of which type of movies are the best for the studio to make.
 - Python
