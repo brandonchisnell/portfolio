@@ -21,7 +21,7 @@ Analysis of which movie genres are the best for the studio to make, along with w
   - Analysis based on 5-year and 10-year models
   - Heatmaps, Line plots, Histograms, Scatter plots
   - Checking correlations between variables
-  - [**DOWNLOAD** THE JUPYTER FILE TO VIEW MY PYTHON CODE](/assets/files/capstone_universal_studios_portfolio.ipynb)
+  - [****DOWNLOAD**** THE JUPYTER FILE TO VIEW MY PYTHON CODE](/assets/files/capstone_universal_studios_portfolio.ipynb)
 - **Tableau**
   -Visuals, Modeling, Presentation
   - [VISIT MY TABLEAU PAGE TO VIEW THE PRESENTATION](https://public.tableau.com/app/profile/brandon.chisnell)
