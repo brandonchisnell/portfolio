@@ -15,46 +15,51 @@ Associate of Applied Science in Criminal Justice
 
 ## Projects
 #### Universal Studios
-Analysis of which movie genres are the best for the studio to make, along with which month they should be released, the best range of duration, the best budget range, and the best fan score to shoot for to achieve the maximum profit amounts for each of these selected genres.
+Analysis of which movie genres are the best for the studio to make, along with which month they should be released, the best duration range, the best budget range, and the best fan score to shoot for to achieve the maximum profit amounts for each of these selected genres
 - **Python**
   - Data exploration, cleaning, and value distribution analysis
   - Analysis based on 5-year and 10-year models
-  - Heatmaps, Line plots, Histograms, Scatter plots
+  - Visuals - Heatmaps, Line plots, Histograms, Scatter plots
   - Checking correlations between variables
   - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](/assets/files/capstone_universal_studios_portfolio.ipynb)
 - **Tableau**
-  -Visuals, Modeling, Presentation
+  - Visuals, Modeling, Presentation
   - [VISIT MY TABLEAU PAGE TO VIEW THE PRESENTATION](https://public.tableau.com/app/profile/brandon.chisnell)
   - [TABLEAU PRESENTATION](https://public.tableau.com/app/profile/brandon.chisnell/viz/Capstone-UniversalStudios/ExecutivePresentation)
 
 ![Movies](/assets/images/movies1.jpeg)
 
 #### American Energy Market Regulator (AEMR)
-
-A case study of energy stability.
+A case study of energy stability and market reliability after there had been an increasing number of energy providers submitting outages
 - **SQL**
+  - Identify the most common outage types along with the frequency of the outages
+  - Identify which energy providers have the highest number of these outages
   - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY SQL CODE](assets/files/)
 - **Tableau**
+  - Visuals, Modeling, Presentation
   - [American Energy Market Regulator Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/AmericanEnergyMarketRegulator_16941167662490/Presentation)
 
 ![Energy Plant](/assets/images/energy2.jpeg)
 
 #### Southern Water Corp
-A financial, statistical and equipment efficiency study for a water desalination company. 
+A financial, statistical and equipment efficiency study for a water desalination company 
 - **Excel**
 - **Python**
 
 ![Water Pumping Station](/assets/images/water1.jpeg)
 
 #### ChemCorp
-Analysis for a chemical manufacturer on preventing loss of future market share and growing profits. 
+Analysis for a chemical manufacturer on preventing loss of future market share and growing profits 
 - **Tableau**
   - [TABLEAU PRESENTATION](https://public.tableau.com/app/profile/brandon.chisnell/viz/ChemCorpAnalysisExecutivePresentationBrandonChisnellV2_0/ExecutivePresentation)
 
 ![Chemicals](/assets/images/chem1.jpeg)
 
 #### AirBnB
-A case study of AirBnB prices in New York.
+A case study of AirBnB prices throught New York City boroughs and neighborhoods
 - **Python**
+  - Identifying which boroughs and neighborhoods and room types have the highest average revenues
+  - Visuals - Bar graphs
+  - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](assets/files/)
 
 ![AirBnB](/assets/images/airbnb1.jpeg)
