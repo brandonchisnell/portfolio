@@ -34,7 +34,7 @@ A case study of energy stability and market reliability after there had been an 
 - **SQL**
   - Identify the most common outage types along with the frequency of the outages
   - Identify which energy providers have the highest number of these outages
-  - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY SQL CODE](assets/files/)
+  - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY SQL CODE](assets/files/aemr_portfolio.ipynb)
 - **Tableau**
   - Visuals, Modeling, Presentation
   - [TABLEAU PRESENTATION - AMERICAN ENERGY MARKET REGULATOR](https://public.tableau.com/app/profile/brandon.chisnell/viz/AmericanEnergyMarketRegulator_16941167662490/Presentation)
@@ -60,6 +60,6 @@ A case study of AirBnB prices throught New York City boroughs and neighborhoods
 - **Python**
   - Identifying which boroughs and neighborhoods and room types have the highest average revenues
   - Visuals - Bar graphs
-  - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](assets/files/)
+  - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](assets/files/aibnb_port)
 
 ![AirBnB](/assets/images/airbnb1.jpeg)
