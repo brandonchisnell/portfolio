@@ -25,7 +25,7 @@ Analysis of which movie genres are the best for the studio to make, along with w
 - **Tableau**
   - Visuals, Modeling, Presentation
   - [VISIT MY TABLEAU PAGE TO VIEW THE PRESENTATION](https://public.tableau.com/app/profile/brandon.chisnell)
-  - [TABLEAU PRESENTATION](https://public.tableau.com/app/profile/brandon.chisnell/viz/Capstone-UniversalStudios/ExecutivePresentation)
+  - [TABLEAU PRESENTATION - UNIVERSAL STUDIOS](https://public.tableau.com/app/profile/brandon.chisnell/viz/Capstone-UniversalStudios/ExecutivePresentation)
 
 ![Movies](/assets/images/movies1.jpeg)
 
@@ -37,7 +37,7 @@ A case study of energy stability and market reliability after there had been an 
   - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY SQL CODE](assets/files/)
 - **Tableau**
   - Visuals, Modeling, Presentation
-  - [American Energy Market Regulator Tableau Presentation](https://public.tableau.com/app/profile/brandon.chisnell/viz/AmericanEnergyMarketRegulator_16941167662490/Presentation)
+  - [TABLEAU PRESENTATION - AMERICAN ENERGY MARKET REGULATOR](https://public.tableau.com/app/profile/brandon.chisnell/viz/AmericanEnergyMarketRegulator_16941167662490/Presentation)
 
 ![Energy Plant](/assets/images/energy2.jpeg)
 
@@ -48,10 +48,10 @@ A financial, statistical and equipment efficiency study for a water desalination
 
 ![Water Pumping Station](/assets/images/water1.jpeg)
 
-#### ChemCorp
+#### ChemCorp INC
 Analysis for a chemical manufacturer on preventing loss of future market share and growing profits 
 - **Tableau**
-  - [TABLEAU PRESENTATION](https://public.tableau.com/app/profile/brandon.chisnell/viz/ChemCorpAnalysisExecutivePresentationBrandonChisnellV2_0/ExecutivePresentation)
+  - [TABLEAU PRESENTATION - CHEMCORP INC](https://public.tableau.com/app/profile/brandon.chisnell/viz/ChemCorp_16941983986210/Presentation)
 
 ![Chemicals](/assets/images/chem1.jpeg)
 
