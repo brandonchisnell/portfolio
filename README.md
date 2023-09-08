@@ -51,6 +51,10 @@ A financial, statistical and equipment efficiency study for a water desalination
 #### ChemCorp INC
 Analysis for a chemical manufacturer on preventing loss of future market share and growing profits 
 - **Tableau**
+  - Identify which chemicals provide the highest profit margins and are best sellers
+  - Recommend which chemcials the company should divest from
+  - Geographic sales program recommendations
+  - Visuals, Modeling, Presentation
   - [TABLEAU PRESENTATION - CHEMCORP INC](https://public.tableau.com/app/profile/brandon.chisnell/viz/ChemCorp_16941983986210/Presentation)
 
 ![Chemicals](/assets/images/chem1.jpeg)
