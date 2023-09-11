@@ -44,8 +44,8 @@ A case study of energy stability and market reliability after there had been an 
 #### Southern Water Corp
 A financial, statistical and equipment efficiency analysis for a water desalination company 
 - **Excel**
-  - Revenue, Expense and EBIT Analysis
-  - 
+  - Revenue, Expense and EBIT Analysis with visuals
+  - [*DOWNLOAD EXCEL FILE](/assets/files/sw_financial-portfolio.xlsx)
 - **Python**
 - **PowerPoint**
   -Presentation
