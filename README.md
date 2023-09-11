@@ -42,9 +42,13 @@ A case study of energy stability and market reliability after there had been an 
 ![Energy Plant](/assets/images/energy2.jpeg)
 
 #### Southern Water Corp
-A financial, statistical and equipment efficiency study for a water desalination company 
+A financial, statistical and equipment efficiency analysis for a water desalination company 
 - **Excel**
+  - Revenue, Expense and EBIT Analysis
+  - 
 - **Python**
+- **PowerPoint**
+  -Presentation
 
 ![Water Pumping Station](/assets/images/water1.jpeg)
 
