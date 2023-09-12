@@ -2,6 +2,8 @@
 [LinkedIn](https://www.linkedin.com/in/brandon-chisnell-9890a79b/)
 ||
 [Resume](/assets/resume/resume_brandon_chisnell.pdf)
+||
+[Tableau](https://public.tableau.com/app/profile/brandon.chisnell)
 
 ## Education
 #### Data Analytics Bootcamp at University of South Florida CTPE, Certification – 2023
@@ -23,7 +25,6 @@ Analysis based on five and ten-year models, of which movie genres are the best f
   - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](/assets/files/capstone_universal_studios_portfolio.ipynb)
 - **Tableau**
   - Visuals, Modeling, Presentation
-  - [VISIT MY TABLEAU PAGE TO VIEW THE PRESENTATION](https://public.tableau.com/app/profile/brandon.chisnell)
   - [TABLEAU PRESENTATION - UNIVERSAL STUDIOS](https://public.tableau.com/app/profile/brandon.chisnell/viz/Capstone-UniversalStudios/ExecutivePresentation)
 
 ![Movies](/assets/images/movies1.jpeg)
