@@ -51,6 +51,8 @@ A financial, economical and statistical equipment efficiency analysis for a wate
   - Descriptive and Inferential Statistics with visuals
     - [*DOWNLOAD* STATISTICS EXCEL FILE](/assets/files/sw_statistics_portfolio.xlsx)
 - **Python**
+  - Differential and Inferential Statistics with visuals
+    - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](/assets/files/sw_portfolio.ipynb)
 - **PowerPoint**
   - Presentations
     - [*DOWNLOAD* FINANCIAL PRESENTATION](/assets/files/sw_financial_portfolio.pptx)
