@@ -48,7 +48,7 @@ A financial, economical and statistical equipment efficiency analysis for a wate
     - [*DOWNLOAD* FINANCIAL EXCEL FILE](/assets/files/sw_financial_portfolio.xlsx)
   - Descriptive and Inferential Statistics with visuals
     - [*DOWNLOAD* STATISTICS EXCEL FILE](/assets/files/sw_statistics_portfolio.xlsx)
-  - Economic Market, Economic Cost and Forecast Analysis with visuals
+  - Economic Market, Economic Cost and What-If Analysis with visuals
     - [*DOWNLOAD* ECONOMICS EXCEL FILE](/assets/files/sw_economics_portfolio.xlsx)
 - **Python**
 - **PowerPoint**
