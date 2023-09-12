@@ -53,9 +53,9 @@ A financial, economical and statistical equipment efficiency analysis for a wate
 - **Python**
 - **PowerPoint**
   - Presentations
-  - [*DOWNLOAD* FINANCIAL PRESENTATION](/assets/files/sw_financial_portfolio.pptx)
-  - [*DOWNLOAD* ECONOMICS PRESENTATION](/assets/files/sw_economics_portfolio.pptx)
-  - [*DOWNLOAD* STATISTICS PRESENTATION](/assets/files/sw_statistics_portfolio.pptx)
+    - [*DOWNLOAD* FINANCIAL PRESENTATION](/assets/files/sw_financial_portfolio.pptx)
+    - [*DOWNLOAD* ECONOMICS PRESENTATION](/assets/files/sw_economics_portfolio.pptx)
+    - [*DOWNLOAD* STATISTICS PRESENTATION](/assets/files/sw_statistics_portfolio.pptx)
 
 ![Water Pumping Station](/assets/images/water1.jpeg)
 
