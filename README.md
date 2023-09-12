@@ -45,10 +45,14 @@ A case study of energy stability and market reliability after there had been an 
 A financial, statistical and equipment efficiency analysis for a water desalination company 
 - **Excel**
   - Revenue, Expense and EBIT Analysis with visuals
-  - [*DOWNLOAD EXCEL FILE](/assets/files/sw_financial-portfolio.xlsx)
+    - [*DOWNLOAD* FINANCIAL EXCEL FILE](/assets/files/sw_financial-portfolio.xlsx)
+  - Descriptive and Inferential Statistics with visuals
+    - [*DOWNLOAD* STATISTICS EXCEL FILE](/assets/files/sw_statistics-portfolio.xlsx)
+  - Economic Market, Economic Cost and Forecast Analysis
+    - [*DOWNLOAD* ECONOMICS EXCEL FILE](/assets/files/sw_economics-portfolio.xlsx)
 - **Python**
 - **PowerPoint**
-  -Presentation
+  -Presentations
 
 ![Water Pumping Station](/assets/images/water1.jpeg)
 
