@@ -15,12 +15,11 @@ Associate of Applied Science in Criminal Justice
 
 ## Projects
 #### Universal Studios
-Analysis of which movie genres are the best for the studio to make, along with which month they should be released, the best duration range, the best budget range, and the best fan score to shoot for to achieve the maximum profit amounts for each of these selected genres
+Analysis based on five and ten-year models, of which movie genres are the best for the studio to make, along with which month they should be released, the best duration range, the best budget range, and the best fan score to shoot for to achieve the maximum profit amounts for each of these selected genres
 - **Python**
   - Data exploration, cleaning, and value distribution analysis
-  - Analysis based on 5-year and 10-year models
-  - Visuals - Heatmaps, Line plots, Histograms, Scatter plots
-  - Checking correlations between variables
+  - Financial Analysis
+  - Visuals
   - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](/assets/files/capstone_universal_studios_portfolio.ipynb)
 - **Tableau**
   - Visuals, Modeling, Presentation
@@ -42,14 +41,14 @@ A case study of energy stability and market reliability after there had been an 
 ![Energy Plant](/assets/images/energy2.jpeg)
 
 #### Southern Water Corp
-A financial, statistical and equipment efficiency analysis for a water desalination company 
+A financial, economical and statistical equipment efficiency analysis for a water desalination company 
 - **Excel**
   - Revenue, Expense and EBIT Analysis with visuals
-    - [*DOWNLOAD* FINANCIAL EXCEL FILE](/assets/files/sw_financial-portfolio.xlsx)
+    - [*DOWNLOAD* FINANCIAL EXCEL FILE](/assets/files/sw_financial_portfolio.xlsx)
   - Descriptive and Inferential Statistics with visuals
-    - [*DOWNLOAD* STATISTICS EXCEL FILE](/assets/files/sw_statistics-portfolio.xlsx)
-  - Economic Market, Economic Cost and Forecast Analysis
-    - [*DOWNLOAD* ECONOMICS EXCEL FILE](/assets/files/sw_economics-portfolio.xlsx)
+    - [*DOWNLOAD* STATISTICS EXCEL FILE](/assets/files/sw_statistics_portfolio.xlsx)
+  - Economic Market, Economic Cost and Forecast Analysis with visuals
+    - [*DOWNLOAD* ECONOMICS EXCEL FILE](/assets/files/sw_economics_portfolio.xlsx)
 - **Python**
 - **PowerPoint**
   -Presentations
@@ -70,8 +69,8 @@ Analysis for a chemical manufacturer on preventing loss of future market share a
 #### AirBnB
 A case study of AirBnB prices throught New York City boroughs and neighborhoods
 - **Python**
-  - Identifying which boroughs and neighborhoods and room types have the highest average revenues
-  - Visuals - Bar graphs
-  - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](assets/files/aibnb_port.ipynb)
+  - Identifying which boroughs, neighborhoods and room types have the highest average revenues
+  - Visuals
+  - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](assets/files/aibnb_portfolio.ipynb)
 
 ![AirBnB](/assets/images/airbnb1.jpeg)
