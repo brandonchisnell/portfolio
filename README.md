@@ -46,13 +46,16 @@ A financial, economical and statistical equipment efficiency analysis for a wate
 - **Excel**
   - Revenue, Expense and EBIT Analysis with visuals
     - [*DOWNLOAD* FINANCIAL EXCEL FILE](/assets/files/sw_financial_portfolio.xlsx)
-  - Descriptive and Inferential Statistics with visuals
-    - [*DOWNLOAD* STATISTICS EXCEL FILE](/assets/files/sw_statistics_portfolio.xlsx)
   - Economic Market, Economic Cost and What-If Analysis with visuals
     - [*DOWNLOAD* ECONOMICS EXCEL FILE](/assets/files/sw_economics_portfolio.xlsx)
+  - Descriptive and Inferential Statistics with visuals
+    - [*DOWNLOAD* STATISTICS EXCEL FILE](/assets/files/sw_statistics_portfolio.xlsx)
 - **Python**
 - **PowerPoint**
-  -Presentations
+  - Presentations
+  - [*DOWNLOAD* FINANCIAL PRESENTATION](/assets/files/sw_financial_portfolio.pptx)
+  - [*DOWNLOAD* ECONOMICS PRESENTATION](/assets/files/sw_economics_portfolio.pptx)
+  - [*DOWNLOAD* STATISTICS PRESENTATION](/assets/files/sw_statistics_portfolio.pptx)
 
 ![Water Pumping Station](/assets/images/water1.jpeg)
 
