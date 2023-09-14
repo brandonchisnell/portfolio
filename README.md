@@ -24,7 +24,6 @@ Analysis based on five and ten-year models, of which movie genres are the best f
   - Visuals
   - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](/assets/files/capstone_universal_studios_portfolio.ipynb)
   - [*CLICK HERE* TO RETRIEVE THE DATASET FROM KAGGLE](https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies)
-    - *Make sure to include all columns in the download
 - **Tableau**
   - Visuals, Modeling, Presentation
   - [TABLEAU PRESENTATION - UNIVERSAL STUDIOS](https://public.tableau.com/app/profile/brandon.chisnell/viz/Capstone-UniversalStudios/ExecutivePresentation)
@@ -38,6 +37,7 @@ A case study of energy stability and market reliability after there had been an 
   - Identify the most common outage types along with the frequency of the outages
   - Identify which energy providers have the highest number of these outages
   - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY SQL CODE](assets/files/aemr_portfolio.ipynb)
+    - *This dataset is proprietary, therefore I am not able to provide it 
 - **Tableau**
   - Visuals, Modeling, Presentation
   - [TABLEAU PRESENTATION - AMERICAN ENERGY MARKET REGULATOR](https://public.tableau.com/app/profile/brandon.chisnell/viz/AmericanEnergyMarketRegulator_16941167662490/Presentation)
@@ -48,14 +48,12 @@ A case study of energy stability and market reliability after there had been an 
 A financial, economical and statistical equipment efficiency analysis for a water desalination company 
 - **Excel**
   - Revenue, Expense and EBIT Analysis with visuals
-    - [*DOWNLOAD* FINANCIAL EXCEL FILE](/assets/files/sw_financial_portfolio.xlsx)
   - Economic Market, Economic Cost and What-If Analysis with visuals
-    - [*DOWNLOAD* ECONOMICS EXCEL FILE](/assets/files/sw_economics_portfolio.xlsx)
   - Descriptive and Inferential Statistics with visuals
-    - [*DOWNLOAD* STATISTICS EXCEL FILE](/assets/files/sw_statistics_portfolio.xlsx)
 - **Python**
   - Differential and Inferential Statistics with visuals
     - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](/assets/files/sw_portfolio.ipynb)
+      - *This dataset is proprietary, therefore I am not able to provide it 
 - **PowerPoint**
   - Presentations
     - [*DOWNLOAD* FINANCIAL PRESENTATION](/assets/files/sw_financial_portfolio.pptx)
@@ -81,5 +79,6 @@ A case study of AirBnB prices throught New York City boroughs and neighborhoods
   - Identifying which boroughs, neighborhoods and room types have the highest average revenues
   - Visuals
   - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](assets/files/aibnb_portfolio.ipynb)
+    - *This dataset is proprietary, therefore I am not able to provide it 
 
 ![AirBnB](/assets/images/airbnb1.jpeg)
