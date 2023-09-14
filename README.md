@@ -23,9 +23,11 @@ Analysis based on five and ten-year models, of which movie genres are the best f
   - Financial Analysis
   - Visuals
   - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](/assets/files/capstone_universal_studios_portfolio.ipynb)
+  - [*DOWNLOAD* THE CSV DATASET](/assets/files/movies.csv)
 - **Tableau**
   - Visuals, Modeling, Presentation
   - [TABLEAU PRESENTATION - UNIVERSAL STUDIOS](https://public.tableau.com/app/profile/brandon.chisnell/viz/Capstone-UniversalStudios/ExecutivePresentation)
+    - *Please allow a few moments for this one to load, and try a second time if needed, there is a lot of data in this presentation.
 
 ![Movies](/assets/images/movies1.jpeg)
 
