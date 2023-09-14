@@ -16,7 +16,7 @@ General Banking, Banking Operations and Banking Supervisor Certifications
 Associate of Applied Science in Criminal Justice
 
 ## Projects
-#### Universal Studios
+### Universal Studios
 Analysis based on five and ten-year models, of which movie genres are the best for the studio to make, along with which month they should be released, the best duration range, the best budget range, and the best fan score to shoot for to achieve the maximum profit amounts for each of these selected genres
 - **Python**
   - Data exploration, cleaning, and value distribution analysis
@@ -31,7 +31,7 @@ Analysis based on five and ten-year models, of which movie genres are the best f
 
 ![Movies](/assets/images/movies1.jpeg)
 
-#### American Energy Market Regulator (AEMR)
+### American Energy Market Regulator (AEMR)
 A case study of energy stability and market reliability after there had been an increasing number of energy providers submitting outages
 - **SQL**
   - Identify the most common outage types along with the frequency of the outages
@@ -44,7 +44,7 @@ A case study of energy stability and market reliability after there had been an 
 
 ![Energy Plant](/assets/images/energy2.jpeg)
 
-#### Southern Water Corp
+### Southern Water Corp
 A financial, economical and statistical equipment efficiency analysis for a water desalination company 
 - **Excel**
   - Revenue, Expense and EBIT Analysis with visuals
@@ -62,7 +62,7 @@ A financial, economical and statistical equipment efficiency analysis for a wate
 
 ![Water Pumping Station](/assets/images/water1.jpeg)
 
-#### ChemCorp INC
+### ChemCorp INC
 Analysis for a chemical manufacturer on preventing loss of future market share and growing profits 
 - **Tableau**
   - Identify which chemicals provide the highest profit margins and are best sellers
@@ -73,7 +73,7 @@ Analysis for a chemical manufacturer on preventing loss of future market share a
 
 ![Chemicals](/assets/images/chem1.jpeg)
 
-#### AirBnB
+### AirBnB
 A case study of AirBnB prices throught New York City boroughs and neighborhoods
 - **Python**
   - Identifying which boroughs, neighborhoods and room types have the highest average revenues
