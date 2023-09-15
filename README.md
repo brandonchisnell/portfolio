@@ -20,11 +20,11 @@ Associate of Applied Science in Criminal Justice
 Analysis based on five and ten-year models, of which movie genres are the best for the studio to make, along with which month they should be released, the best duration range, the best budget range, and the best fan score to shoot for to achieve the maximum profit amounts for each of these selected genres
 
 #### Python
-  - Data exploration, cleaning, and value distribution analysis
-  - Financial Analysis
-  - Visuals
-  - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](/assets/files/capstone_universal_studios_portfolio.ipynb)
-  - [*CLICK HERE* TO RETRIEVE THE DATASET FROM KAGGLE](https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies)
+- Data exploration, cleaning, and value distribution analysis
+- Financial Analysis
+- Visuals
+- [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](/assets/files/capstone_universal_studios_portfolio.ipynb)
+- [*CLICK HERE* TO RETRIEVE THE DATASET FROM KAGGLE](https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies)
 
 #### Tableau
   - Visuals, Modeling, Presentation
@@ -35,11 +35,13 @@ Analysis based on five and ten-year models, of which movie genres are the best f
 
 ### American Energy Market Regulator (AEMR)
 A case study of energy stability and market reliability after there had been an increasing number of energy providers submitting outages
+
 #### SQL
   - Identify the most common outage types along with the frequency of the outages
   - Identify which energy providers have the highest number of these outages
   - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY SQL CODE](assets/files/aemr_portfolio.ipynb)
     - *This dataset is proprietary, therefore I am not able to provide it
+
 #### Tableau
   - Visuals, Modeling, Presentation
   - [TABLEAU PRESENTATION - AMERICAN ENERGY MARKET REGULATOR](https://public.tableau.com/app/profile/brandon.chisnell/viz/AmericanEnergyMarketRegulator_16941167662490/Presentation)
