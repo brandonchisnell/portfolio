@@ -37,7 +37,7 @@ A case study of energy stability and market reliability after there had been an 
   - Identify the most common outage types along with the frequency of the outages
   - Identify which energy providers have the highest number of these outages
   - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY SQL CODE](assets/files/aemr_portfolio.ipynb)
-    - *This dataset is proprietary, therefore I am not able to provide it 
+    - *This dataset is proprietary, therefore I am not able to provide it
 #### Tableau
   - Visuals, Modeling, Presentation
   - [TABLEAU PRESENTATION - AMERICAN ENERGY MARKET REGULATOR](https://public.tableau.com/app/profile/brandon.chisnell/viz/AmericanEnergyMarketRegulator_16941167662490/Presentation)
