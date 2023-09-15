@@ -18,12 +18,14 @@ Associate of Applied Science in Criminal Justice
 ## Projects
 ### Universal Studios
 Analysis based on five and ten-year models, of which movie genres are the best for the studio to make, along with which month they should be released, the best duration range, the best budget range, and the best fan score to shoot for to achieve the maximum profit amounts for each of these selected genres
+
 #### Python
   - Data exploration, cleaning, and value distribution analysis
   - Financial Analysis
   - Visuals
   - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](/assets/files/capstone_universal_studios_portfolio.ipynb)
   - [*CLICK HERE* TO RETRIEVE THE DATASET FROM KAGGLE](https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies)
+
 #### Tableau
   - Visuals, Modeling, Presentation
   - [TABLEAU PRESENTATION - UNIVERSAL STUDIOS](https://public.tableau.com/app/profile/brandon.chisnell/viz/Capstone-UniversalStudios/ExecutivePresentation)
