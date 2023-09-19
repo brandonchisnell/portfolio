@@ -83,7 +83,7 @@ A case study of AirBnB prices throught New York City boroughs and neighborhoods
   - **Python**
     - Identifying which boroughs, neighborhoods and room types have the highest average revenues
     - Visuals
-    - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](assets/files/aibnb_portfolio.ipynb)
+    - [*DOWNLOAD* THE JUPYTER FILE TO VIEW MY PYTHON CODE](assets/files/airbnb_portfolio.ipynb)
       - *This dataset is proprietary, therefore I am not able to provide it. 
 
 ![AirBnB](/assets/images/airbnb1.jpeg)
