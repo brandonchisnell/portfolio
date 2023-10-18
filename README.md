@@ -1,4 +1,6 @@
 # Data Analyst
+[Certificate](/assets/resume/usf_certificate.pdf)
+||
 [LinkedIn](https://www.linkedin.com/in/brandon-chisnell-9890a79b/)
 ||
 [Resume](/assets/resume/resume_brandon_chisnell.pdf)
@@ -6,7 +8,7 @@
 [Tableau](https://public.tableau.com/app/profile/brandon.chisnell)
 
 ## Education
-#### Data Analytics Bootcamp at University of South Florida CTPE, Certification – 2023
+#### Data Analytics Bootcamp at University of South Florida CTPE, Certificate – 2023
 Six-month intensive course in data analytics technologies and methods
 
 #### American Institute of Banking – 2009
