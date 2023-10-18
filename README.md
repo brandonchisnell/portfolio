@@ -12,7 +12,7 @@
 Six-month intensive course in data analytics technologies and methods
 
 #### American Institute of Banking – 2009
-General Banking, Banking Operations and Banking Supervisor Certifications
+General Banking, Banking Operations Diplomas and Banking Supervisor Certification
 
 #### Community College of Baltimore County – 2007
 Associate of Applied Science in Criminal Justice
