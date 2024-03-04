@@ -4,6 +4,7 @@
 [LinkedIn](https://www.linkedin.com/in/brandon-chisnell-9890a79b/)
 ||
 [Tableau](https://public.tableau.com/app/profile/brandon.chisnell)
+
 Data Analyst with an extensive background in banking, lending auditing and that has instilled a strong understanding of financial concepts, and the ability to make recommendations for implementation. Possesses a strong passion for data analysis and eager to support businesses in making correct, accurate decisions by presenting data efficiently in a clear, concise manner.
 
 ## Education
