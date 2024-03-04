@@ -3,13 +3,13 @@
 ||
 [LinkedIn](https://www.linkedin.com/in/brandon-chisnell-9890a79b/)
 ||
-[Resume](/assets/resume/resume_brandon_chisnell.pdf)
-||
 [Tableau](https://public.tableau.com/app/profile/brandon.chisnell)
+Data Analyst with an extensive background in banking, lending auditing and that has instilled a strong understanding of financial concepts, and the ability to make recommendations for implementation. Possesses a strong passion for data analysis and eager to support businesses in making correct, accurate decisions by presenting data efficiently in a clear, concise manner.
 
 ## Education
 #### Data Analytics Bootcamp at University of South Florida CTPE, Certificate – 2023
-Six-month intensive course in data analytics technologies and methods
+Data analytics technologies and methods including framework solutions, data manipulation and cleansing, business and financial analyses, equipment, and logistical analyses, supporting visualizations and reports. 
+Capstone: Analyses and presentation of the best features and types of movies that would be most profitable based on previous ten-year and five-year models, using Python and Tableau.
 
 #### American Institute of Banking – 2009
 General Banking, Banking Operations Diplomas and Banking Supervisor Certification
